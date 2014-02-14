@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Socket2Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">PH Reading: </string>
+    <string name="phData"></string>
+    <string name="phReading">phReading</string>
+    <string name="airTemp">Air Temperature</string>
+    <string name="airTempReading">Air temp reading</string>
+    <string name="waterTemp">Water Temp Reading</string>
+    <string name="waterTemp2">Water Temp</string>
+    <string name="waterTempReading">water temp</string>
+    <string name="humidityReading">Rel Humidity</string>
+    <string name="humidityReading2">humidity reading</string>
+    <string name="hydroApp">HydroApp</string>
+
+</resources>
